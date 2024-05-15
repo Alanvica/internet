@@ -1,0 +1,5 @@
+com\emergentes\dao\SeminarioDAOimpl.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\modelo\seminario.class
+com\emergentes\dao\SeminarioDAO.class
+com\emergentes\controlador\inicio.class
